@@ -6,7 +6,7 @@ These are just breakout boards for breakout out each pin on a CRT socket. The CR
 ## Boards Renders
 ### CR23
 **Front**  
-![CR23 Board Front](Images/CR23Front.png)
+![CR23 Board Front](Images/CR23Front.png)  
 **Back**  
 ![CR23 Board Back](Images/CR23Back.png)  
 
