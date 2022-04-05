@@ -8,16 +8,16 @@ These are just breakout boards for breakout out each pin on a CRT socket. The CR
 **Front**  
 ![CR23 Board Front](Images/CR23Front.png)
 **Back**  
-![CR23 Board Back](Images/CR23Back.png)
+![CR23 Board Back](Images/CR23Back.png)  
 
 ### CR30
 **Front**  
-![CR30 Board Front](Images/CR30Front.png)
+![CR30 Board Front](Images/CR30Front.png)  
 **Back**  
 ![CR30 Board Back](Images/CR30Back.png)
 
 ### CR31
 **Front**  
-![CR31 Board Front](Images/CR31Front.png)
+![CR31 Board Front](Images/CR31Front.png)  
 **Back**  
 ![CR31 Board Back](Images/CR31Back.png)
